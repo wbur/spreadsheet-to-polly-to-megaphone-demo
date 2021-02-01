@@ -21,7 +21,7 @@ That being said, it can hopefully inform and inspire you to turn normalized data
 
 ## Bonus for Shopping
 
-Also included is `get_polly_mp3s.py` which is a quick and dirty way to create MP3s from text via Polly and S3.
+Also included is `get_polly_mp3s.py` which is a quick and dirty way to create MP3s from text via Polly and S3. We found it extremely useful for spot checking your template, before you pull the trigger on, say, creating 351 unique pre-rolls.
 
 ## Good Luck!
 
